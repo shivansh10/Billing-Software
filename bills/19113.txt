@@ -1,0 +1,18 @@
+	     Bansiwala's General Store
+Bill Number : 19113
+Customer Name : Nishkarsh
+Phone Number : 47810384 
+===================================================
+ Products			QTY		Price
+===================================================
+ Bath Soap			1		30
+ Body loshan			1		60
+ Tea			2		200
+ Orange			3		150
+---------------------------------------------------
+Cosmetics Tax					Rs.4.5
+Grosery Tax					Rs.2.0
+Cold Drink Tax					Rs.7.5
+---------------------------------------------------
+Total Bill:					Rs.454.0
+---------------------------------------------------

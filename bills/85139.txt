@@ -1,0 +1,14 @@
+	     Bansiwala's General Store
+Bill Number : 85139
+Customer Name : dfgsdfg
+Phone Number : sfdgdf 
+===================================================
+ Products			QTY		Price
+===================================================
+---------------------------------------------------
+Cosmetics Tax					Rs.0.0
+Grosery Tax					Rs.0.0
+Cold Drink Tax					Rs.0.0
+---------------------------------------------------
+Total Bill:					 Rs. 0.0
+---------------------------------------------------

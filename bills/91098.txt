@@ -1,0 +1,20 @@
+	     Bansiwala's General Store
+Bill Number : 91098
+Customer Name : ascsd
+Phone Number : 3463645 
+===================================================
+ Products			QTY		Price
+===================================================
+ Face Cream			1		0
+ Body loshan			1		0
+ Daal			1		0
+ Sugar			1		0
+ Frooti			1		0
+ Limca			1		0
+---------------------------------------------------
+Cosmetics Tax					Rs.0.0
+Grosery Tax					Rs.0.0
+Cold Drink Tax					Rs.0.0
+---------------------------------------------------
+Total Bill:					Rs.0.0
+---------------------------------------------------

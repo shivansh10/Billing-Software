@@ -1,0 +1,24 @@
+	     Bansiwala's General Store
+Bill Number : 53493
+Customer Name : Shivansh Bansal
+Phone Number : 9825015461 
+===================================================
+ Products			QTY		Price
+===================================================
+ Bath Soap			1		30
+ Face Cream			1		50
+ Face Wash			1		100
+ Hair spray			1		70
+ Body loshan			1		60
+ Daal			1		200
+ Wheat			1		240
+ Sugar			1		45
+ Tea			2		200
+ Sprite			2		80
+---------------------------------------------------
+Cosmetics Tax					Rs.15.5
+Grosery Tax					Rs.6.85
+Cold Drink Tax					Rs.4.0
+---------------------------------------------------
+Total Bill:					Rs.1101.35
+---------------------------------------------------
